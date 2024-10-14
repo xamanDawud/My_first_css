@@ -1,0 +1,35 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+.para-head {
+  font-size: 50px;
+  color: sienna;
+  text-align: center;
+}
+.blog {
+  background-color: skyblue;
+  margin: 20px;
+  padding: 20px;
+  border: 4px solid darkkhaki;
+  border-radius: 4px;
+  box-shadow: 10px 10px 15px darkcyan;
+}
+
+#two {
+  background-color: salmon;
+}
+#three {
+  background-color: darkolivegreen;
+}
+
+h1 {
+  text-align: center;
+}
+
+#imgDiv {
+  background-image: url("/images/istockphoto-1369654070-612x612.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+}
